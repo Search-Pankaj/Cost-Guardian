@@ -1,7 +1,7 @@
 # Cost Guardian: Advanced Cloud Cost Intelligence Platform
 
 <div align="center">
-  <img src="https://github.com/Search-Pankaj/Cost-Guardian/logo.svg" alt="Cost Guardian Logo" width="280"/>
+  <img src="https://github.com/Search-Pankaj/Cost-Guardian/blob/main/logo.svg" alt="Cost Guardian Logo" width="280"/>
   
   <h3>Turn cloud spend into strategic insights</h3>
 
