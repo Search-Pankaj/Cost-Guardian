@@ -23,7 +23,7 @@ Cost Guardian is an enterprise-grade cloud cost intelligence platform that revol
 **Note:** This repository contains the **open-source design components** of Cost Guardian, including the architecture, data models, UI/UX designs, and implementation guidelines. The full Cost Guardian product is a commercial solution available at [mycostguardian.com](https://mycostguardian.com).
 
 <div align="center">
-  <img src="https://github.com/Search-Pankaj/Cost-Guardian/edit/main/logo.svg" alt="Cost Guardian Dashboard" width="800"/>
+    <img src="https://github.com/Search-Pankaj/Cost-Guardian/blob/main/logo.svg" alt="Cost Guardian Logo" width="50"/>
 </div>
 
 ## Key Features
