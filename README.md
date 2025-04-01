@@ -1,7 +1,7 @@
 # Cost Guardian: Advanced Cloud Cost Intelligence Platform
 
 <div align="center">
-  <img src="https://github.com/yourusername/cost-guardian-design/raw/main/assets/cost-guardian-logo.png" alt="Cost Guardian Logo" width="280"/>
+  <img src="https://github.com/Search-Pankaj/Cost-Guardian/edit/main/logo.svg" alt="Cost Guardian Logo" width="280"/>
   
   <h3>Turn cloud spend into strategic insights</h3>
 
@@ -23,7 +23,7 @@ Cost Guardian is an enterprise-grade cloud cost intelligence platform that revol
 **Note:** This repository contains the **open-source design components** of Cost Guardian, including the architecture, data models, UI/UX designs, and implementation guidelines. The full Cost Guardian product is a commercial solution available at [mycostguardian.com](https://mycostguardian.com).
 
 <div align="center">
-  <img src="https://github.com/yourusername/cost-guardian-design/raw/main/assets/dashboard-preview.png" alt="Cost Guardian Dashboard" width="800"/>
+  <img src="https://github.com/Search-Pankaj/Cost-Guardian/edit/main/logo.svg" alt="Cost Guardian Dashboard" width="800"/>
 </div>
 
 ## Key Features
@@ -60,9 +60,6 @@ Cost Guardian is built on a modern, scalable architecture designed for performan
 
 ### High-Level Architecture
 
-<div align="center">
-  <img src="https://github.com/yourusername/cost-guardian-design/raw/main/assets/architecture-diagram.png" alt="Architecture Diagram" width="800"/>
-</div>
 
 ### Core Components
 
@@ -334,7 +331,7 @@ The Cost Guardian design is available under the [MIT License](./LICENSE).
 ---
 
 <div align="center">
-  <p>© 2023 Cost Guardian. All Rights Reserved.</p>
+  <p>© 2025 Cost Guardian. All Rights Reserved.</p>
   <p>
     <a href="https://mycostguardian.com">Website</a>
     &nbsp;&nbsp;·&nbsp;&nbsp;
